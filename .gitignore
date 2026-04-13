@@ -49,6 +49,10 @@ __MACOSX/
 
 # Platformio files
 .pio/*
+test/*
+lib/*
+platformio.ini
+src/main.cpp
 
 # Github files
 .git/*
