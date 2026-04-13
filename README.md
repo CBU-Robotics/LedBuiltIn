@@ -28,6 +28,12 @@ Built-in LED management for Arduino/ESP32 boards.
 - `bool isBlinking()` / `void stopBlink()`
 - `void task_led(void*)`
 
+## Installation (PlatformIO)
+```ini
+lib_deps =
+    https://github.com/CBU-Robotics/LedBuiltIn.git
+```
+
 ## Usage
 ```cpp
 #include <LedBuiltIn.h>

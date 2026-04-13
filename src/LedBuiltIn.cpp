@@ -1,4 +1,4 @@
-#include "LedBuiltIn.h"
+#include <LedBuiltIn/LedBuiltIn.h>
 
 // Optional logging via LogQueue; compile-time detection
 #if defined(__has_include)
