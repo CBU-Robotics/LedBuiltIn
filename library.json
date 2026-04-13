@@ -1,0 +1,16 @@
+{
+  "name": "LedBuiltIn",
+  "version": "0.2.0",
+  "description": "Thread-safe built-in LED control with default-aware non-blocking blink, active-low support, and optional logging.",
+  "keywords": ["led", "blink", "esp32", "freertos", "active-low"],
+  "authors": [
+    { "name": "LongKnightsElectronics" }
+  ],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "dependencies": [],
+  "build": {
+    "includeDir": ".",
+    "srcDir": "."
+  }
+}

@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# Mac OS files
+.DS_Store
+__MACOSX/
+
+# .vscode files
+.vscode/*
+
+# Platformio files
+.pio/*
+
+# Github files
+.git/*
